@@ -1,1 +1,5 @@
-<img src="photo.jpg" style="height:464px;margin-right:432px"/>
+
+HAMDOUNE OUMAIMA 
+Ecole Nationale de Commerce et de Gestion
+1. Introduction 
+**La base de données "maladie_observations.csv" représente une collection de données médicales simulées spécialement conçue pour la recherche en intelligence artificielle médicale. Elle capture cinq paramètres physiologiques fondamentaux — température, pouls, oxygénation, glycémie et tension artérielle — auprès de 1 500 observations de patients, avec pour objectif de discriminer leur état de santé (sain ou malade) à partir de ces mesures objectives. Cette approche s'inscrit dans la révolution de la médecine prédictive, visant à établir des corrélations quantifiables entre signes vitaux routiniers et statuts cliniques. La base sert ainsi de benchmark idéal pour développer et tester des algorithmes d'aide au diagnostic, tout en offrant à la recherche médicale une plateforme d'analyse des seuils pathologiques et des interactions entre paramètres physiologiques. En permettant une classification automatique et objective des patients, elle ouvre la voie vers des outils de triage intelligent et une détection précoce des décompensations physiologiques, particulièrement utiles dans des contextes de ressources limitées ou d'afflux massifs de patients.**
